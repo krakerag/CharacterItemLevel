@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Character Item Level
+## Notes: Shows item level on equipped items in the character frame.
+## Author: You
+## Version: 1.1
+## SavedVariables: CharacterItemLevelDB
+
+CharacterItemLevel.lua
